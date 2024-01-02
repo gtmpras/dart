@@ -1,6 +1,6 @@
 main()
 {
-  var name='prasoon';
+  var name='Prasoon';
   String surname='Gautam';
   print(name+' '+surname);
 }
